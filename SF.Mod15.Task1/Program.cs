@@ -16,7 +16,7 @@ namespace SF.Mod15.Task1
             };
             var allStudents = GetAllStudents(classes);
 
-                      Console.WriteLine(string.Join(" ", allStudents));
+            Console.WriteLine(string.Join(" ", allStudents));
         }
 
         /// <summary>
